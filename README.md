@@ -46,13 +46,14 @@ Bot Response:
 1. **Clone the repository:**
 git clone https://github.com/yourusername/washing-machine-bot.git
 cd discord-washing-machine-bot
-
 2. **Install dependencies:**
 pip install -r requirements.txt
-
 3. **Configure environment variables:**
 Edit .env with your actual credentials
-
 4. **Run the bot:**
 python bot.py
 
+### 🎬 Working Demo
+
+**See the bot in action:**
+▶ [Watch Demo Video](https://drive.google.com/file/d/1AAO3Id8-lEkh5rtDj0ZXD1zfTFPhpPyD/view?usp=sharing)
